@@ -1,1 +1,1 @@
-{}
+{"settlements":{"label":"Settlements","toggleable":true,"defaultHidden":false,"sorting":0,"markers":{"shack-suburbs":{"classes":[],"detail":"Shack\u0026nbsp;Suburbs","icon":"assets/poi.svg","anchor":{"x":25,"y":45},"minDistance":200.0,"maxDistance":10000.0,"type":"poi","label":"Shack Suburbs","position":{"x":-235,"y":69,"z":-295},"sorting":0,"listed":true}}}}
